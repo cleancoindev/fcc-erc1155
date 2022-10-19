@@ -22,7 +22,7 @@
     "multi-token-standard": "github:ProjectOpenSea/multi-token-standard",
     "opensea-js": "latest",
     "openzeppelin-solidity": "^2.1.3",
-    "truffle": "^5.1.12",
+    "truffle": "^5.5.8",
     "truffle-flattener": "1.4.2",
     "truffle-hdwallet-provider": "1.0.17",
     "web3": "1.0.0-beta.34"
